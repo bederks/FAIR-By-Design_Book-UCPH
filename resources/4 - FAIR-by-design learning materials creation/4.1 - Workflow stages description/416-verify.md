@@ -41,4 +41,4 @@ The ELIXIR FAIR training team is currently working on FAIR checklist and maturit
 
 Within Skills4EOSC, task T2.4 is working on certification and quality assurance [@sanchez_2023_8305482] and, as part of this work, has developed a [quality assessment framework](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%206%20%E2%80%93%20Verify/19-Final%20QA%20check/19-finalQA/#self-check-qa) that will enable evaluation of the overall quality of the produced learning materials, and also their FAIRness and alignment with the FAIR-by-design methodology.
 
-## [Review practical information on how to implement the Verify stage in the FAIR-by-Design Microlearning unit](https://fair-by-design-methodology.github.io/microlearning/latest/06%20Verify/verify/)
+## [Review practical information on how to implement the Verify stage in the FAIR-by-Design Microlearning unit](https://fairbydesign-ucph.github.io/Fair-by-design-methodology-microlearning-site-UCPH/latest/06%20Verify/verify/)
