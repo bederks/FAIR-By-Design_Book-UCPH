@@ -75,4 +75,4 @@ In addition to these newly developed skills, best practices for the instructiona
 - Are there any prerequisites?  What does the audience need to know or understand before starting the learning process?
     - The prerequisites help position the learning materials in a wider context and define their place in a higher-level aggregation such as a learning path. Using a standardised, well-adopted vocabulary to describe the prerequisites helps other instructors better understand the learning content and how it can be fit together with other learning objects.
 
-## [Review practical information on how to implement the Prepare stage in the FAIR-by-Design Microlearning unit](https://fair-by-design-methodology.github.io/microlearning/latest/01%20Prepare/prepare/)
+## [Review practical information on how to implement the Prepare stage in the FAIR-by-Design Microlearning unit](https://fairbydesign-ucph.github.io/Fair-by-design-methodology-microlearning-site-UCPH/latest/01%20Prepare/prepare/)
