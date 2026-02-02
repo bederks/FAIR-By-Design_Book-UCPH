@@ -10,7 +10,7 @@ This document describes a methodology for FAIR-by-design production of learning 
 
 ### Training
 
-If you are looking for training materials related to the practical implementation of the FAIR-by-Design Methodology access the [FAIR-by-Design Methodology Training of Trainers learning content](https://fairbydesign-ucph.github.io/FAIR-by-Design-Training-of-Trainers-UCPH/latest/). 
+If you are looking for training materials related to the practical implementation of the FAIR-by-Design Methodology at the Univeristy of Copenhagen access the [FAIR-by-Design Methodology Training of Trainers at UCPH learning content](https://fairbydesign-ucph.github.io/FAIR-by-Design-Training-of-Trainers-UCPH/latest/). 
 
 ## COPYRIGHT NOTICE 
 
