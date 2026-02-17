@@ -34,22 +34,10 @@ FAIR-by-Design Methodology: how to develop FAIR materials webinar has been held 
 * [webinar description + recording](https://fair-impact.eu/events/fair-implementation-workshops/fair-design-methodology-how-develop-fair-materials)
 * [webinar materials](https://zenodo.org/records/10256852)
 
-## FAIR Implementation Webinar on using FAIR Signposting in the FAIR-by-Design Methodology
-
-The Skills4EOSC Minimum Viable Skills Profiles: Implementation using FAIR Signposting webinar is held as part of the FAIR Implementation Workshops organised by FAIR IMPACT:
-
-* [webinar description + recording](https://fair-impact.eu/events/fair-implementation-workshops/skills4eosc-minimum-viable-skills-profiles-implementation)
-
 ## Skills4EOSC FAIR-by-Design Methodology for Learning Materials Development
 
 Training on FAIR-by-Design Methodology for Learning Materials Development that was held as a part of the Digital Skills for FAIR and Responsible Open Science: Co-creating the Content, Structure and Pathways workshop on the OSFAIR 2023:
 
 * [workshop materials](https://zenodo.org/records/8419242)
-
-## The Skills4EOSC Minimum Viable Skillsets Catalogue
-
-The MVS profiles are closely related to the FAIR-by-Design Methodology as they should be used in the Design step of the methodology while ideating the learning materials using a concept map. The MVS catalogue itself has been produced using the FAIR-by-Design methodology.
-
-* [MVS Catalogue of Open Science Career Profiles](https://fair-by-design-methodology.github.io/MVS/latest/)
 
 
